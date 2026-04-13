@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.online_shopping",
+      "sha256_cert_fingerprints": [
+        "46:BC:F1:0C:ED:EE:D3:FF:7C:4E:A5:FC:AE:CD:A3:05:8A:F1:DE:65:65:29:45:28:5E:53:E5:85:39:E7:78:36"
+      ]
+    }
+  }
+]
